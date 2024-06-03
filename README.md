@@ -3,7 +3,7 @@
 
 # Portfolio Website Showcase
 
-This repository contains the code for my personal portfolio website, showcasing my projects, skills, and contact information. The project is divided into two main parts: the backend and the frontend.
+This is a showcase repository for my personal portfolio website, showcasing my projects, skills, and contact information. The project is divided into two main parts: the backend and the frontend.
 
 ## Table of Contents
 
