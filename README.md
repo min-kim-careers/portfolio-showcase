@@ -1,3 +1,6 @@
+> [!NOTE]  
+> ## The previous website is no longer operational because of unnecessary hosting expenses. It has been replaced with an updated version.
+
 # Portfolio Website Showcase
 
 This repository contains the code for my personal portfolio website, showcasing my projects, skills, and contact information. The project is divided into two main parts: the backend and the frontend.
