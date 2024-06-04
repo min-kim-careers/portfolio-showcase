@@ -1,5 +1,5 @@
 > [!NOTE]  
-> ## The previous website is no longer operational because of unnecessary hosting expenses. It has been replaced with an updated version.
+> ## This website is no longer operational because of unnecessary hosting expenses. It has been replaced with an updated version.
 
 # Portfolio Website Showcase
 
